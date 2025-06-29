@@ -1,0 +1,3 @@
+pyaudio
+openai
+pynput
